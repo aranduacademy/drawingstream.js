@@ -1,0 +1,31 @@
+{
+  "name": "drawingstream.js",
+  "homepage": "https://github.com/aranduacademy/drawingstream.js",
+  "authors": [
+    "Anderson Tavares <nocturne.pe@gmail.com>"
+  ],
+  "description": "Library for offering a Drawing Streaming feature for educational videos.",
+  "main": "drawingstream.js",
+  "keywords": [
+    "Digital",
+    "Whiteboard;",
+    "Arandu",
+    "Drawing",
+    "Stream;",
+    "Arandu;",
+    "SVG"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery-ui": "^1.11.4",
+    "jquery": "^2.2.3"
+  }
+}

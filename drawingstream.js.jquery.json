@@ -1,0 +1,27 @@
+{
+  "name": "drawingstream.js",
+  "title": "Arandu Drawing Stream Javascript Library",
+  "description": "Library for creating stream of drawing elements, for educational videos.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/aranduacademy/drawingstream.js",
+  "author": {
+    "name": "Anderson Tavares",
+    "email": "nocturne.pe@gmail.com",
+    "url": "http://aranduacademy.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aranduacademy/drawingstream.js.git"
+  },
+  "bugs": "https://github.com/aranduacademy/drawingstream.js/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/aranduacademy/drawingstream.js/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
