@@ -392,11 +392,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="638.10457"
-     inkscape:cy="-2192.4491"
+     inkscape:zoom="1"
+     inkscape:cx="544.0331"
+     inkscape:cy="-1540.9699"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:snap-bbox="true"
@@ -404,9 +404,9 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:window-width="1364"
-     inkscape:window-height="736"
-     inkscape:window-x="0"
+     inkscape:window-width="679"
+     inkscape:window-height="742"
+     inkscape:window-x="683"
      inkscape:window-y="0"
      inkscape:window-maximized="0">
     <inkscape:grid
@@ -761,15 +761,15 @@
       <image
          sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/foto_eu.jpg"
          xlink:href="foto_eu.jpg"
-         width="100"
-         height="100"
-         preserveAspectRatio="none"
-         style="display:inline;fill:#000000;image-rendering:optimizeSpeed"
-         id="image6306-0"
-         x="488.17096"
-         y="791.53534"
+         transform="matrix(1.2092808,0,0,1.2092808,-72.984627,-584.77961)"
          clip-path="url(#clipPath8008)"
-         transform="matrix(1.2092808,0,0,1.2092808,-72.984627,-584.77961)" />
+         y="791.53534"
+         x="488.17096"
+         id="image6306-0"
+         style="display:inline;fill:#000000;image-rendering:optimizeSpeed"
+         preserveAspectRatio="none"
+         height="100"
+         width="100" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:125%;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1060,13 +1060,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image6424"
-       x="194"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="462"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="194"
+       id="image6424"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text6426"
@@ -1108,13 +1108,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="525"
-       x="194"
-       id="image6461"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image6461"
+       x="194"
+       y="525"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -1168,13 +1168,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="462"
-       x="468"
-       id="image7688"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image7688"
+       x="468"
+       y="462"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -1216,13 +1216,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image7702"
-       x="468"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="525"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="468"
+       id="image7702"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text7704"
@@ -1264,13 +1264,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image7744"
-       x="742"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="462"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="742"
+       id="image7744"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text7746"
@@ -1312,13 +1312,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="525"
-       x="742"
-       id="image7758"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image7758"
+       x="742"
+       y="525"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -1360,13 +1360,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="630"
-       x="194"
-       id="image7774"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image7774"
+       x="194"
+       y="630"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -1408,13 +1408,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image7788"
-       x="194"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="693"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="194"
+       id="image7788"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text7790"
@@ -1468,13 +1468,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image7806"
-       x="468"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="630"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="468"
+       id="image7806"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text7808"
@@ -1516,13 +1516,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="693"
-       x="468"
-       id="image7820"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image7820"
+       x="468"
+       y="693"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -1564,13 +1564,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="630"
-       x="742"
-       id="image7834"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image7834"
+       x="742"
+       y="630"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -1612,13 +1612,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image7848"
-       x="742"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="693"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="742"
+       id="image7848"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text7850"
@@ -2326,13 +2326,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1108"
-       x="194"
-       id="image8485"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image8485"
+       x="194"
+       y="1108"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -2374,13 +2374,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image8499"
-       x="194"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="1171"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="194"
+       id="image8499"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text8501"
@@ -2434,13 +2434,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image8517"
-       x="468"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="1108"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="468"
+       id="image8517"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text8519"
@@ -2482,13 +2482,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1171"
-       x="468"
-       id="image8531"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image8531"
+       x="468"
+       y="1171"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -2530,13 +2530,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1108"
-       x="742"
-       id="image8545"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image8545"
+       x="742"
+       y="1108"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -2578,13 +2578,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image8559"
-       x="742"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="1171"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="742"
+       id="image8559"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text8561"
@@ -2626,13 +2626,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image8629"
-       x="194"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="1234"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="194"
+       id="image8629"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text8631"
@@ -2674,13 +2674,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1297"
-       x="194"
-       id="image8643"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image8643"
+       x="194"
+       y="1297"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -2722,13 +2722,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1234"
-       x="468"
-       id="image8657"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image8657"
+       x="468"
+       y="1234"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -2770,13 +2770,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image8671"
-       x="468"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="1297"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="468"
+       id="image8671"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text8673"
@@ -2818,13 +2818,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image8685"
-       x="742"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="1234"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="742"
+       id="image8685"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text8687"
@@ -2866,13 +2866,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1297"
-       x="742"
-       id="image8699"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image8699"
+       x="742"
+       y="1297"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -2914,13 +2914,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1359"
-       x="194"
-       id="image8713"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image8713"
+       x="194"
+       y="1359"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -2962,13 +2962,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image8727"
-       x="468"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="1359"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="468"
+       id="image8727"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text8729"
@@ -3010,13 +3010,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1359"
-       x="742"
-       id="image8741"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image8741"
+       x="742"
+       y="1359"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -3058,13 +3058,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1422"
-       x="194"
-       id="image8755"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image8755"
+       x="194"
+       y="1422"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -3106,13 +3106,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image8769"
-       x="194"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="1485"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="194"
+       id="image8769"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text8771"
@@ -3154,13 +3154,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image8783"
-       x="468"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="1422"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="468"
+       id="image8783"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text8785"
@@ -3202,13 +3202,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1485"
-       x="468"
-       id="image8797"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image8797"
+       x="468"
+       y="1485"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -3250,13 +3250,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1422"
-       x="742"
-       id="image8811"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image8811"
+       x="742"
+       y="1422"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -3298,13 +3298,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image8825"
-       x="742"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="1485"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="742"
+       id="image8825"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text8827"
@@ -3807,13 +3807,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image9911"
-       x="194"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="1896"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="194"
+       id="image9911"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text9913"
@@ -3855,13 +3855,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1959"
-       x="194"
-       id="image9925"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image9925"
+       x="194"
+       y="1959"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -3915,13 +3915,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1896"
-       x="468"
-       id="image9943"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image9943"
+       x="468"
+       y="1896"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -3963,13 +3963,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image9957"
-       x="468"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="1959"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="468"
+       id="image9957"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text9959"
@@ -4011,13 +4011,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image9971"
-       x="742"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="1896"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="742"
+       id="image9971"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text9973"
@@ -4059,13 +4059,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="1959"
-       x="742"
-       id="image9985"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image9985"
+       x="742"
+       y="1959"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -4107,13 +4107,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="2022"
-       x="194"
-       id="image9999"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image9999"
+       x="194"
+       y="2022"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -4155,13 +4155,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image10013"
-       x="194"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="2085"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="194"
+       id="image10013"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text10015"
@@ -4203,13 +4203,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image10027"
-       x="468"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="2022"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="468"
+       id="image10027"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text10029"
@@ -4251,13 +4251,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="2085"
-       x="468"
-       id="image10041"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image10041"
+       x="468"
+       y="2085"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -4299,13 +4299,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="2022"
-       x="742"
-       id="image10055"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image10055"
+       x="742"
+       y="2022"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -4347,13 +4347,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image10069"
-       x="742"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="2085"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="742"
+       id="image10069"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text10071"
@@ -4395,13 +4395,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image10083"
-       x="194"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="2147"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="194"
+       id="image10083"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text10085"
@@ -4443,13 +4443,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="2147"
-       x="468"
-       id="image10097"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image10097"
+       x="468"
+       y="2147"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -4491,13 +4491,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image10111"
-       x="742"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="2147"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="742"
+       id="image10111"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text10113"
@@ -4539,13 +4539,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image10125"
-       x="194"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="2210"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="194"
+       id="image10125"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text10127"
@@ -4587,13 +4587,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="2273"
-       x="194"
-       id="image10139"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image10139"
+       x="194"
+       y="2273"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -4635,13 +4635,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="2210"
-       x="468"
-       id="image10153"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image10153"
+       x="468"
+       y="2210"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -4683,13 +4683,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image10167"
-       x="468"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="2273"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="468"
+       id="image10167"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text10169"
@@ -4731,13 +4731,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image10181"
-       x="742"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="2210"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="742"
+       id="image10181"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <text
        sodipodi:linespacing="100%"
        id="text10183"
@@ -4779,13 +4779,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       y="2273"
-       x="742"
-       id="image10195"
-       preserveAspectRatio="none"
+       width="100"
        height="57"
-       width="100" />
+       preserveAspectRatio="none"
+       id="image10195"
+       x="742"
+       y="2273"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Lato;-inkscape-font-specification:Lato;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -5321,15 +5321,15 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/foto_eu.jpg"
        xlink:href="foto_eu.jpg"
-       clip-path="url(#clipPath6805)"
-       style="display:inline;fill:#ffffff;stroke:#ffffff"
-       y="2758.9272"
-       x="502"
-       id="image11317"
-       preserveAspectRatio="none"
-       height="32"
+       transform="translate(346,-93.51418)"
        width="32"
-       transform="translate(346,-93.51418)" />
+       height="32"
+       preserveAspectRatio="none"
+       id="image11317"
+       x="502"
+       y="2758.9272"
+       style="display:inline;fill:#ffffff;stroke:#ffffff"
+       clip-path="url(#clipPath6805)" />
     <path
        style="fill:#ffffff;fill-opacity:0.07843137;fill-rule:evenodd;stroke:#000000;stroke-width:1.0206207px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.15686275"
        d="m 844,2643.5 180,0"
@@ -5601,15 +5601,15 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/foto_eu.jpg"
        xlink:href="foto_eu.jpg"
-       transform="translate(346,10.48582)"
-       width="32"
-       height="32"
-       preserveAspectRatio="none"
-       id="image11395"
-       x="502"
-       y="2758.9272"
+       clip-path="url(#clipPath6805)"
        style="display:inline;fill:#ffffff;stroke:#ffffff"
-       clip-path="url(#clipPath6805)" />
+       y="2758.9272"
+       x="502"
+       id="image11395"
+       preserveAspectRatio="none"
+       height="32"
+       width="32"
+       transform="translate(346,10.48582)" />
     <ellipse
        ry="16.081141"
        rx="16.081142"
@@ -5757,20 +5757,10 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="40"
-       height="39.999943"
-       preserveAspectRatio="none"
-       id="image11480"
-       x="5.1472983e-07"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:13.21221924;stroke-miterlimit:4;stroke-dasharray:none"
        y="2510.0103"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:13.21221924;stroke-miterlimit:4;stroke-dasharray:none" />
-    <image
-       sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
-       xlink:href="opengl-logo.png"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:13.21221924;stroke-miterlimit:4;stroke-dasharray:none"
-       y="2552.0103"
-       x="6.9226076e-07"
-       id="image11482"
+       x="5.1472983e-07"
+       id="image11480"
        preserveAspectRatio="none"
        height="39.999943"
        width="40" />
@@ -5780,20 +5770,30 @@
        width="40"
        height="39.999943"
        preserveAspectRatio="none"
-       id="image11484"
+       id="image11482"
        x="6.9226076e-07"
-       y="2594.0103"
+       y="2552.0103"
        style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:13.21221924;stroke-miterlimit:4;stroke-dasharray:none" />
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
        style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:13.21221924;stroke-miterlimit:4;stroke-dasharray:none"
-       y="2636.0103"
+       y="2594.0103"
        x="6.9226076e-07"
-       id="image11486"
+       id="image11484"
        preserveAspectRatio="none"
        height="39.999943"
        width="40" />
+    <image
+       sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
+       xlink:href="opengl-logo.png"
+       width="40"
+       height="39.999943"
+       preserveAspectRatio="none"
+       id="image11486"
+       x="6.9226076e-07"
+       y="2636.0103"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:13.21221924;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        sodipodi:linespacing="100%"
        id="text11490"
@@ -5809,13 +5809,13 @@
     <image
        sodipodi:absref="/home/acmt/Documentos/git/drawingstream.js/docs/opengl-logo.png"
        xlink:href="opengl-logo.png"
-       width="100"
-       height="57"
-       preserveAspectRatio="none"
-       id="image11494"
-       x="40"
+       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        y="2416.0103"
-       style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       x="40"
+       id="image11494"
+       preserveAspectRatio="none"
+       height="57"
+       width="100" />
     <g
        style="display:inline"
        id="g6663"
@@ -5869,5 +5869,12 @@
          d="m 1194.0152,1876.638 216,16"
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff6600;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6510-3)" />
     </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6010"
+       width="100"
+       height="57"
+       x="40"
+       y="2416.0103" />
   </g>
 </svg>
